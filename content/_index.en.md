@@ -14,7 +14,8 @@ cta:
     Suspendisse tincidunt consequat quam.
   enable: true
   title: Didn't find an answer to your question?
-sha: e83bee5804631af82a0af179a8a496ce48647ab2
 title: Hugotion Docs
 ---
 Hugotion is a content first turnkey CMS, which helps you start your site in just 3 clicks!
+
+It even allows **YOU **to have *style!*
